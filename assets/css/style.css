@@ -11851,37 +11851,6 @@ body {
   scroll-behavior: smooth;
 }
 
-.quien-soy__image img {
-  width: 100%;
-}
-
-.habilidades__container img {
-  width: 2.5rem;
-}
-
-.habilidades__container {
-  gap: 3.5rem;
-  margin-top: 6rem;
-  margin-bottom: 6rem;
-}
-
-.trabajos img {
-  width: 20rem;
-  margin-bottom: 1rem;
-}
-
-.proyectos__container {
-  gap: 3rem;
-}
-
-.proyectos__container {
-  margin-top: 3rem;
-}
-
-.direcciones__container {
-  margin-top: 3.5rem;
-}
-
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
@@ -11921,38 +11890,8 @@ body h4, body .h4 {
   width: 15rem;
 }
 
-.trabajos {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-  margin-top: 5rem;
-  margin-bottom: 3rem;
-}
-
 .icon h4, .icon .h4 {
   flex: 2;
-}
-
-.quien-soy {
-  width: 80vw;
-  display: flex;
-  margin-top: 10rem;
-}
-
-.quien-soy__image {
-  width: 49%;
-}
-
-.quien-soy__presentacion {
-  width: 49%;
-}
-
-.habilidades__titulo {
-  margin-top: 9rem;
-}
-
-.contacto__titulo {
-  margin-top: 5rem;
 }
 
 .enlaces {
@@ -11960,18 +11899,6 @@ body h4, body .h4 {
   gap: 1.5rem;
   margin-left: 1.5rem;
   margin-bottom: 1.5rem;
-}
-
-.contacto {
-  width: 80vw;
-}
-
-.contacto__formulario {
-  width: 49%;
-}
-
-.contacto__direcciones {
-  width: 49%;
 }
 
 .quien__soy--button {

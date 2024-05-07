@@ -1,52 +1,5 @@
-.trabajos {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-  margin-top: 5rem;
-  margin-bottom: 3rem;
-}
-
-.icon img {
-    // flex: 1 0 50px;
-    // width: 100%;
-    // flex-grow: 1;
-    // flex-basis: 25px;
-
-
-}
-
 .icon h4 {
     flex: 2;
-}
-
-// .icon {
-//   display: flex;
-//   align-items: center;
-//   justify-content: space-between;
-//   gap: 1rem;
-// }
-
-.quien-soy {
-  width: 80vw;
-  display: flex;
-  margin-top: 10rem;
-}
-
-.quien-soy__image {
-  width: 49%;
-  
-}
-
-.quien-soy__presentacion {
-  width: 49%;
-}
-
-.habilidades__titulo {
-  margin-top: 9rem;
-}
-
-.contacto__titulo {
-  margin-top: 5rem;
 }
 
 .enlaces {
@@ -54,16 +7,4 @@
   gap: 1.5rem;
   margin-left: 1.5rem;
   margin-bottom: 1.5rem;
-}
-
-.contacto {
-  width: 80vw;
-}
-
-.contacto__formulario {
-  width: 49%;
-}
-
-.contacto__direcciones {
-  width: 49%;
 }

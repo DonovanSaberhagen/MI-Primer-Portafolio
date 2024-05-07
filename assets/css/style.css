@@ -11851,6 +11851,12 @@ body {
   scroll-behavior: smooth;
 }
 
+.icon .w-50 {
+  min-width: 40px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
@@ -11912,6 +11918,12 @@ body h4, body .h4 {
   border-radius: 5px;
   border: none;
   padding: 0.5rem 3rem;
+}
+
+@media (max-width: 577px) {
+  .quien__soy--button {
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
